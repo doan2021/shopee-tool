@@ -1,3 +1,11 @@
 spring:
   application:
     name: shopee-tool
+
+authentication:
+  url: https://www.zoom.us/signin
+  username: dgminhtam1@gmail.com
+  password: 378187945919Tfgos1
+
+product:
+  url: https://www.zoom.us/profile
