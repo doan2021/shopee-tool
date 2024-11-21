@@ -4,6 +4,6 @@ public interface AuthenticationService {
 
     boolean isLoggedIn();
 
-    void login();
+    void login() throws InterruptedException;
 }
 

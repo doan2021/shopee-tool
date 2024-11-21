@@ -3,9 +3,9 @@ spring:
     name: shopee-tool
 
 authentication:
-  url: https://www.zoom.us/signin
-  username: dgminhtam1@gmail.com
-  password: 378187945919Tfgos1
+  url: https://shopee.vn/buyer/login
+  username: tamduong550
+  password: Aa1234567890000@
 
 product:
-  url: https://www.zoom.us/profile
+  url: https://shopee.vn/TAIDU-Robot-H%C3%BAt-B%E1%BB%A5i-Th%C3%B4ng-Minh-B%E1%BB%91n-Trong-M%E1%BB%99t-S%E1%BA%A1c-USB-i.947059415.23736062591
